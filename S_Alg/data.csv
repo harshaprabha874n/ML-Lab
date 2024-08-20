@@ -1,0 +1,6 @@
+Eyes,Nose,Head,Fcolor,Hair,Smile,Result
+Round,Triangle,Round,Purple,Yes,Yes,yes
+Square,Square,Square,Green,Yes,Yes,yes
+Square,Triangle,Round,Yellow,Yes,Yes,yes
+Round,Triangle,Round,Green,No,No,no
+Square,Square,Round,Yellow,Yes,Yes,yes
